@@ -7,4 +7,4 @@ CREATE TABLE Persons(
 	created DATETIME
 );
 
--- Comando básico SQL de creación de tabla
+-- Comando básico SQL de creación de una tabla en la base de datos.
